@@ -1,16 +1,13 @@
 [green_agent]
-agentbeats_id = ""
-env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
-
-[[participants]]
-agentbeats_id = ""
-name = "role_1_name"
+agentbeats_id = "019c1630-8504-7382-acc0-ae5b43e8467c"
 env = {}
 
 [[participants]]
-agentbeats_id = ""
-name = "role_2_name"
+agentbeats_id = "019c167f-b385-78f3-a285-5c42d36c9c2e"
+name = "classify agent"
 env = {}
 
 [config]
 # Add your assessment config here
+max_rowws = 100
+rit_filter = "SAC"
