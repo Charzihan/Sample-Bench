@@ -1,0 +1,13 @@
+[green_agent]
+agentbeats_id = "019c1630-8504-7382-acc0-ae5b43e8467c"
+env = {}
+
+[[participants]]
+agentbeats_id = "019c167f-b385-78f3-a285-5c42d36c9c2e"
+name = "agent"
+env = {GOOGLE_API_KEY = "${GOOGLE_API_KEY}", LLM_MODEL="gemini-2.5-flash"}
+
+[config]
+# Add your assessment config here
+max_rows = 4
+rit_filter = "WTC"
