@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/charzihan/green-agent@sha256:afbbaff72b995f72af81809ca51c7cbba857256447242732b6b9391f1fab7c7e",
+    "agent": "ghcr.io/charzihan/sample-purple-agent@sha256:7029be6edfa6e61aed981dc7fb63780b726b14f2236fcd4db4576b324339771a",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-02-01T02:32:39Z",
+  "github_actions": {
+    "run_url": "https://github.com/Charzihan/Sample-Bench/actions/runs/21555072007",
+    "run_logs_url": "https://api.github.com/repos/Charzihan/Sample-Bench/actions/runs/21555072007/logs",
+    "ref": "refs/heads/Charzihan-patch-6",
+    "sha": "7601a79b83d73b83398ad7dc07a7e21abed3bc8b",
+    "repository_url": "https://github.com/Charzihan/Sample-Bench",
+    "workflow_ref": "Charzihan/Sample-Bench/.github/workflows/run-scenario.yml@refs/heads/Charzihan-patch-6",
+    "workflow_sha": "7601a79b83d73b83398ad7dc07a7e21abed3bc8b"
+  }
+}
